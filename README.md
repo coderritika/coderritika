@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderritika
-- 👀 I’m interested in .coding..
-- 🌱 I’m currently learning .cpp with dsa..
-- 💞️ I’m looking to collaborate on .programmings..
+- 👀 I’m interested in coding..
+- 🌱 I’m currently learning cpp with dsa..
+- 💞️ I’m looking to collaborate on programmings..
 - 📫 How to reach me ...
 
 <!---
